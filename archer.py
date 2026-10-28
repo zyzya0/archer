@@ -33,5 +33,3 @@ if choose == "3":
 if choose == "4":
     os.system("sudo pacman -Syyu")
 
-else choose:
-    print("dont know this")
